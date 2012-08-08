@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Lib
+namespace Images
 {
-    public class Class1
+    class ViewModelBase : ViewModelBasePageEdit
     {
+        
     }
 }

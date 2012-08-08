@@ -1,0 +1,14 @@
+﻿<Window x:Class="FrontEnd.Views.Comum.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="768" Width="1024" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" xmlns:my="http://schemas.microsoft.com/winfx/2006/xaml/presentation/ribbon">
+    <Grid>
+        <my:Ribbon Height="120" Name="ribbon1" VerticalAlignment="Top" HorizontalAlignment="Stretch" />
+        <Grid HorizontalAlignment="Stretch" Margin="0,139,0,0" Name="grid1" VerticalAlignment="Stretch" >
+            <Frame HorizontalAlignment="Stretch" Name="frame1" VerticalAlignment="Stretch" />
+        </Grid>
+        <my:RibbonGroup Header="Cadastros" Margin="0,41,872,609">
+            <my:RibbonButton Label="Contas" Name="Contas" LargeImageSource="/FrontEnd;component/Images/Account.jpg" Click="Contas_Click" />
+        </my:RibbonGroup>
+    </Grid>
+</Window>

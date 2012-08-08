@@ -8,7 +8,7 @@
     <ProjectGuid>{4A723191-474F-42EF-9D7C-E970D917876C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FrontEnd</RootNamespace>
+    <RootNamespace>GUI.FrontEnd</RootNamespace>
     <AssemblyName>FrontEnd</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
@@ -36,6 +36,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="RibbonControlsLibrary, Version=3.5.41019.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -55,18 +56,25 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="TelaInicial.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="TelaInicial.xaml.cs">
-      <DependentUpon>TelaInicial.xaml</DependentUpon>
-      <SubType>Code</SubType>
+    <Compile Include="ViewModels\Cadastros\ContasViewModel.cs" />
+    <Compile Include="Views\Cadastros\Contas.xaml.cs">
+      <DependentUpon>Contas.xaml</DependentUpon>
     </Compile>
+    <Page Include="MainWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Cadastros\Contas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -93,12 +101,15 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="ViewModels\Cadastros\" />
+    <Folder Include="ViewModels\Comum\" />
     <Folder Include="ViewModels\Operacoes\" />
     <Folder Include="ViewModels\Relatorios\" />
-    <Folder Include="Views\Cadastros\" />
+    <Folder Include="Views\Comum\" />
     <Folder Include="Views\Operacoes\" />
     <Folder Include="Views\Relatorios\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Account.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,0 +1,5 @@
+D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\GLib.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\GLib.Model\bin\Debug\GLib.Model.dll
+D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\GLib.Model\bin\Debug\GLib.Model.pdb
+D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\GLib.Model\obj\Debug\GLib.Model.dll
+D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\GLib.Model\obj\Debug\GLib.Model.pdb

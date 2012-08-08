@@ -1,0 +1,5 @@
+D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\Lib\bin\Debug\Lib.dll
+D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\Lib\bin\Debug\Lib.pdb
+D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\Lib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\Lib\obj\Debug\Lib.dll
+D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\Lib\obj\Debug\Lib.pdb

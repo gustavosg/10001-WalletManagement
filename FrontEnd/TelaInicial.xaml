@@ -1,9 +1,0 @@
-﻿<Window x:Class="FrontEnd.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Tela Inicial
-        " Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
-</Window>

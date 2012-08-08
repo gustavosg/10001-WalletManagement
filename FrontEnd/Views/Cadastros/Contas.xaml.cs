@@ -12,14 +12,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace FrontEnd
+namespace FrontEnd.ViewModels.Cadastros
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Contas.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Contas : Page
     {
-        public MainWindow()
+        public Contas()
         {
             InitializeComponent();
         }
