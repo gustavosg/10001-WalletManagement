@@ -25,7 +25,6 @@ namespace Images
     public class ViewModelBasePage : INotifyPropertyChanged
     {
         #region fields
-
         #endregion
 
         #region Methods
