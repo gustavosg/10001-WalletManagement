@@ -20,3 +20,5 @@ D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\
 D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\FrontEnd_MarkupCompile.lref
 D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\Views\Cadastros\Contas.baml
 D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\GUI.FrontEnd.Properties.Resources.resources
+D:\Projetos\10001-WalletManagement\FrontEnd\obj\x86\Debug\FrontEnd.exe
+D:\Projetos\10001-WalletManagement\FrontEnd\obj\x86\Debug\FrontEnd.pdb
