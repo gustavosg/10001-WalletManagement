@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Images
 {
-    class ViewModelBase : ViewModelBasePageEdit
+    class ViewModelBase 
     {
         
     }

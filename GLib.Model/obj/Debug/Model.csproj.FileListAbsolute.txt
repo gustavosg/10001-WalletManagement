@@ -1,0 +1,4 @@
+D:\Projetos\10001-WalletManagement\GLib.Model\bin\Debug\GLib.Model.dll
+D:\Projetos\10001-WalletManagement\GLib.Model\bin\Debug\GLib.Model.pdb
+D:\Projetos\10001-WalletManagement\GLib.Model\obj\Debug\GLib.Model.dll
+D:\Projetos\10001-WalletManagement\GLib.Model\obj\Debug\GLib.Model.pdb

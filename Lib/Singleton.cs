@@ -1,11 +1,11 @@
 ﻿// ------------------------------------------------------------------------------------------------------------------------
-// Sistema: 10001 - Wallet Management
-// Descrição: Sistema de Gerenciamento de Finanças
+// Sistema:     10001 - Wallet Management
+// Descrição:   Sistema de Gerenciamento de Finanças
 // ------------------------------------------------------------------------------------------------------------------------
-// Pacote: Singleton
-// Descrição: Biblioteca responsável por retornar a instância do objeto criado
-// Autor: Gustavo Souza Gonçalves
-// Data: 20/12/2012
+// Pacote:      Singleton
+// Descrição:   Biblioteca responsável por retornar a instância do objeto criado
+// Autor:       Gustavo Souza Gonçalves
+// Data:        20/12/2012
 // ------------------------------------------------------------------------------------------------------------------------
 
 #region References
@@ -15,7 +15,7 @@ using System.Reflection;
 
 #endregion
 
-namespace Lib.Singleton
+namespace Library.Basis.Singleton
 {
     public sealed class Singleton<T> where T : class
     {

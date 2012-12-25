@@ -1,0 +1,5 @@
+D:\Projetos\10001-WalletManagement\LogGenerator\obj\Debug\LogGenerator.csprojResolveAssemblyReference.cache
+D:\Projetos\10001-WalletManagement\LogGenerator\bin\Debug\WalletManagement.Library.Basis.LogGenerator.dll
+D:\Projetos\10001-WalletManagement\LogGenerator\bin\Debug\WalletManagement.Library.Basis.LogGenerator.pdb
+D:\Projetos\10001-WalletManagement\LogGenerator\obj\Debug\WalletManagement.Library.Basis.LogGenerator.dll
+D:\Projetos\10001-WalletManagement\LogGenerator\obj\Debug\WalletManagement.Library.Basis.LogGenerator.pdb
