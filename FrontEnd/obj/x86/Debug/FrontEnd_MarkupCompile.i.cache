@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\
+D:\Projetos\10001-WalletManagement\FrontEnd\obj\x86\Debug\
 GUI.FrontEnd
 none
 false
 DEBUG;TRACE
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\App.xaml
+D:\Projetos\10001-WalletManagement\FrontEnd\App.xaml
 21772340362
 
 81791147024
-13969970310
+141399434043
 MainWindow.xaml;Views\Cadastros\Contas.xaml;
 
-True
+False
 

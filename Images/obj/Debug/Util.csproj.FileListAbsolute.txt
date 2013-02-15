@@ -4,3 +4,9 @@ D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\Images\obj\Debug\
 D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\Images\obj\Debug\Images.g.resources
 D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\Images\obj\Debug\Images.dll
 D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\Images\obj\Debug\Images.pdb
+D:\Projetos\10001-WalletManagement\Images\obj\Debug\Images.g.resources
+D:\Projetos\10001-WalletManagement\Images\obj\Debug\Images.dll
+D:\Projetos\10001-WalletManagement\Images\obj\Debug\Images.pdb
+D:\Projetos\10001-WalletManagement\Images\bin\Debug\Images.dll
+D:\Projetos\10001-WalletManagement\Images\bin\Debug\Images.pdb
+D:\Projetos\10001-WalletManagement\Images\obj\Debug\Util.csprojResolveAssemblyReference.cache
