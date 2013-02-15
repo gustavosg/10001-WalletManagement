@@ -5,20 +5,28 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:vm="clr-namespace:GUI.FrontEnd.ViewModels"
       mc:Ignorable="d" 
-      d:DesignHeight="300" d:DesignWidth="400" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+      d:DesignHeight="600" d:DesignWidth="800" HorizontalAlignment="Center" VerticalAlignment="Center"
 	Title="Contas">
 
+    <Page.DataContext>
+        <vm:ContasViewModel/>
+    </Page.DataContext>
     <Page.Resources>
         
     </Page.Resources>
     
+    
     <Grid>
-        <Label Content="Nome:" Height="28" HorizontalAlignment="Left" Margin="72,46,0,0" VerticalAlignment="Top" />
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="84*" />
+            <ColumnDefinition Width="716*" />
+        </Grid.ColumnDefinitions>
+        <Label Content="Nome:" Height="28" HorizontalAlignment="Left" Margin="5,46,0,0" VerticalAlignment="Top" Grid.Column="1" />
         
-        <Button Content="Novo" Height="23" HorizontalAlignment="Left" Margin="89,247,0,0" Name="button2" VerticalAlignment="Top" Width="75" />
-        <Button Content="Salvar" Height="23" HorizontalAlignment="Left" Margin="171,247,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
+        <Button Content="Novo" Height="23" HorizontalAlignment="Left" Margin="5,231,0,0" Name="button2" VerticalAlignment="Top" Width="75" />
+        <Button Content="Salvar" Height="23" HorizontalAlignment="Left" Margin="5,275,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
         
-        <Button Content="Cancelar" Height="23" HorizontalAlignment="Left" Margin="252,247,0,0" Name="button3" VerticalAlignment="Top" Width="75" />
-        <TextBlock Height="23" HorizontalAlignment="Left" Margin="140,51,0,0" Name="textBlock1" VerticalAlignment="Top" Width="126" />
+        <Button Content="Cancelar" Height="23" HorizontalAlignment="Left" Margin="5,316,0,0" Name="button3" VerticalAlignment="Top" Width="75" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="56,51,0,0" Name="textBlock1" VerticalAlignment="Top" Width="126" Grid.Column="1" />
     </Grid>
 </Page>
