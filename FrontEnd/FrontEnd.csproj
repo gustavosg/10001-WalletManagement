@@ -118,6 +118,10 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Images\Util.csproj">
+      <Project>{54284444-DEA7-4939-81ED-F3826A7D1C1E}</Project>
+      <Name>Util</Name>
+    </ProjectReference>
     <ProjectReference Include="..\LogGenerator\LogGenerator.csproj">
       <Project>{e2635ada-d6f1-44e8-8e33-1f96947b80b7}</Project>
       <Name>LogGenerator</Name>

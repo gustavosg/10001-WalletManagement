@@ -23,28 +23,6 @@ D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\
 D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\GUI.FrontEnd.Properties.Resources.resources
 D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
 =======
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\bin\Debug\FrontEnd.exe
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\bin\Debug\FrontEnd.pdb
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\bin\Debug\RibbonControlsLibrary.dll
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\bin\Debug\Microsoft.Windows.Shell.dll
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\bin\Debug\RibbonControlsLibrary.pdb
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\bin\Debug\RibbonControlsLibrary.xml
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\bin\Debug\Microsoft.Windows.Shell.pdb
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\bin\Debug\Microsoft.Windows.Shell.xml
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\App.g.cs
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\FrontEnd_MarkupCompile.cache
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\FrontEnd.g.resources
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\GenerateResource.read.1.tlog
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\GenerateResource.write.1.tlog
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\FrontEnd.exe
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\FrontEnd.pdb
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\MainWindow.baml
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\MainWindow.g.cs
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\Views\Cadastros\Contas.g.cs
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\FrontEnd_MarkupCompile.lref
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\Views\Cadastros\Contas.baml
-D:\Projetos\Visual Studio 2010\Projects\10001-WalletManagement\FrontEnd\obj\x86\Debug\GUI.FrontEnd.Properties.Resources.resources
 D:\Projetos\10001-WalletManagement\FrontEnd\obj\x86\Debug\FrontEnd.exe
 D:\Projetos\10001-WalletManagement\FrontEnd\obj\x86\Debug\FrontEnd.pdb
 D:\Projetos\10001-WalletManagement\FrontEnd\bin\Debug\FrontEnd.exe
